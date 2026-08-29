@@ -1,0 +1,74 @@
+about:
+  description: The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+  license: BSD-3-Clause
+  homepage: https://dart.dev
+  head: 32e0b7e
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:29:33Z
+timeline:
+  created: 2015-05-16
+  lastCommit: 2026-08-29
+  lastRelease: ?
+popularity:
+  star: 11268
+  watcher: 289
+  fork: 1855
+  release: 0
+  contributor: 623
+  pullRequest: 1215
+  issue: 61993
+language:
+  Dart: 167402998
+  C++: 25162458
+  C: 1766720
+  Python: 1249775
+  HTML: 738280
+  Java: 510094
+  JavaScript: 420005
+  WebAssembly: 163008
+  Shell: 100844
+  GAP: 99638
+  CSS: 76024
+  ANTLR: 51149
+  TeX: 37865
+  SCSS: 22311
+  Assembly: 15976
+  Makefile: 11244
+  Batchfile: 4444
+  CMake: 1598
+  Objective-C++: 854
+totalLine: 197835285
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 14
+    closedIssue: 83
+    openIssue: 108
+    commit: 484
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 0
+    openPR: 24
+    closedIssue: 301
+    openIssue: 275
+    commit: 1486
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 0
+    openPR: 29
+    closedIssue: 687
+    openIssue: 491
+    commit: 2797
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 0
+    openPR: 29
+    closedIssue: 1554
+    openIssue: 907
+    commit: 5545
