@@ -2,27 +2,27 @@ about:
   description: "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
   license: BSD-3-Clause
   homepage: https://dart.dev
-  head: 65988f9
+  head: bb6891e
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:20:35Z
+  collectedAt: 2026-09-07T18:51:34Z
 timeline:
   created: 2015-05-16
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 11272
+  star: 11273
   watcher: 291
-  fork: 1855
+  fork: 1857
   release: 0
-  contributor: 590
+  contributor: 591
   pullRequest: 1404
-  issue: 62040
+  issue: 62053
 language:
-  Dart: 168185804
-  C++: 25167299
+  Dart: 168507539
+  C++: 25174242
   C: 1785004
-  Python: 1249775
+  Python: 1249967
   HTML: 737752
   Java: 509670
   JavaScript: 419891
@@ -38,76 +38,76 @@ language:
   Batchfile: 4444
   CMake: 1598
   Objective-C++: 854
-totalBytes: 198640150
+totalBytes: 198969020
 recent:
   last30d:
     since: 2026-08-08
     release: 0
     mergedPR: 0
     openPR: 11
-    closedIssue: 75
-    openIssue: 96
-    commit: 357
+    closedIssue: 80
+    openIssue: 104
+    commit: 375
   last60d:
     since: 2026-07-09
     release: 0
     mergedPR: 0
     openPR: 16
-    closedIssue: 171
-    openIssue: 183
-    commit: 837
+    closedIssue: 176
+    openIssue: 191
+    commit: 855
   last90d:
     since: 2026-06-09
     release: 0
     mergedPR: 0
     openPR: 21
-    closedIssue: 282
-    openIssue: 274
-    commit: 1327
+    closedIssue: 287
+    openIssue: 282
+    commit: 1345
   last180d:
     since: 2026-03-11
     release: 0
     mergedPR: 0
     openPR: 28
-    closedIssue: 684
-    openIssue: 484
-    commit: 2674
+    closedIssue: 689
+    openIssue: 492
+    commit: 2692
   last360d:
     since: 2025-09-12
     release: 0
     mergedPR: 0
     openPR: 28
-    closedIssue: 1553
-    openIssue: 909
-    commit: 5453
+    closedIssue: 1558
+    openIssue: 917
+    commit: 5471
   last720d:
     since: 2024-09-17
     release: 0
     mergedPR: 1
     openPR: 28
-    closedIssue: 2881
-    openIssue: 1742
-    commit: 12099
+    closedIssue: 2886
+    openIssue: 1750
+    commit: 12117
 total:
   release: 0
   mergedPR: 184
   openPR: 28
-  closedIssue: 53640
-  openIssue: 8400
-  commit: 115178
+  closedIssue: 53647
+  openIssue: 8406
+  commit: 115196
 ---
 path: /home/runner/.x-repo/github.com/dart-lang/sdk
-collectedAt: 2026-09-07T05:32:48Z
+collectedAt: 2026-09-07T18:56:11Z
 loc:
   Dart:
-    code: 4572387
-    comments: 520804
-    blanks: 529893
-    files: 25521
+    code: 4580981
+    comments: 520846
+    blanks: 530034
+    files: 25522
   Cpp:
-    code: 470852
+    code: 471017
     comments: 46284
-    blanks: 61300
+    blanks: 61310
     files: 650
   Json:
     code: 167777
@@ -115,9 +115,9 @@ loc:
     blanks: 116
     files: 143
   CHeader:
-    code: 129753
+    code: 129759
     comments: 22850
-    blanks: 23738
+    blanks: 23739
     files: 461
   Yaml:
     code: 82272
@@ -130,7 +130,7 @@ loc:
     blanks: 922
     files: 28
   Python:
-    code: 25321
+    code: 25332
     comments: 3033
     blanks: 4492
     files: 128
@@ -241,19 +241,19 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 44336
-    blanks: 14782
+    comments: 44338
+    blanks: 14783
     files: 371
   Text:
     code: 0
-    comments: 37853
+    comments: 37860
     blanks: 273
     files: 77
 total:
-  code: 5543235
-  comments: 691284
-  blanks: 650108
-  files: 28721
+  code: 5552011
+  comments: 691335
+  blanks: 650261
+  files: 28722
 ---
 date: "2026-09-07T00:07:46Z"
 repo:
@@ -371,7 +371,7 @@ checks:
       - 'Info: found contributions from: CodedConsultants, Dart-Code, coded consultants ltd, dart-lang, draw-dev, flutter, google, google @dart-lang, google on @dart-lang, grpc, metaborg, monome-community, wren-lang'
 ---
 eget:
-  collectedAt: 2026-09-07T05:32:50+00:00
+  collectedAt: 2026-09-07T18:56:33+00:00
   platform:
     darwin/arm64:
       name:  null
