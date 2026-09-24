@@ -373,3 +373,4 @@ checks:
     reason: project has 13 contributing companies or organizations
     details:
       - 'Info: found contributions from: CodedConsultants, Dart-Code, coded consultants ltd, dart-lang, draw-dev, flutter, google, google @dart-lang, google on @dart-lang, grpc, metaborg, monome-community, wren-lang'
+---
