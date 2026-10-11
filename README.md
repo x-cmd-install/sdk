@@ -14,11 +14,11 @@ x install sdk
 
 ## Code insight
 
-Total: **5,670,042** lines of code across **27922** files in the top 5 languages.
+Total: **5,670,226** lines of code across **27922** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 4,705,115 | 528,838 | 538,296 | 25761 |
+| Dart | 4,705,299 | 528,851 | 538,302 | 25761 |
 | Cpp | 473,598 | 46,534 | 61,596 | 651 |
 | Json | 167,797 | 0 | 116 | 143 |
 | CHeader | 130,994 | 22,892 | 23,789 | 462 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,303 · **Forks**: 1,911 · **Open issues**: 62,332 · **Contributors**: 602
+- **Stars**: 11,304 · **Forks**: 1,912 · **Open issues**: 62,333 · **Contributors**: 602
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 31 · **Closed issues**: 53934 · **Open issues**: 8398 · **Commits**: 116053
+- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 32 · **Closed issues**: 53934 · **Open issues**: 8399 · **Commits**: 116058
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 17 | 121 | 133 | 667 |
-| last60d | 2026-08-11 | 0 | 0 | 22 | 232 | 216 | 1183 |
-| 90d | 2026-07-12 | 0 | 0 | 22 | 350 | 289 | 1663 |
-| last180d | 2026-04-13 | 0 | 0 | 28 | 703 | 499 | 3067 |
-| 360d | 2025-10-15 | 0 | 0 | 31 | 1599 | 927 | 5825 |
-| last720d | 2024-10-20 | 0 | 1 | 31 | 2979 | 1768 | 12303 |
+| 30d | 2026-09-11 | 0 | 0 | 18 | 117 | 131 | 525 |
+| last60d | 2026-08-12 | 0 | 0 | 23 | 227 | 212 | 1042 |
+| 90d | 2026-07-13 | 0 | 0 | 23 | 347 | 289 | 1553 |
+| last180d | 2026-04-14 | 0 | 0 | 29 | 701 | 500 | 2968 |
+| 360d | 2025-10-16 | 0 | 0 | 32 | 1592 | 927 | 5733 |
+| last720d | 2024-10-21 | 0 | 1 | 32 | 2973 | 1765 | 12308 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for sdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:28:06Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:23:14Z._
