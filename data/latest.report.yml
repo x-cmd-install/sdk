@@ -2,35 +2,35 @@ about:
   description: "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
   license: BSD-3-Clause
   homepage: https://dart.dev
-  head: 44744ac
+  head: 5babfd0
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:26:21Z
+  collectedAt: 2026-10-30T06:28:33Z
 timeline:
   created: 2015-05-16
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 11323
+  star: 11324
   watcher: 289
-  fork: 1989
+  fork: 2008
   release: 0
-  contributor: 609
-  pullRequest: 1472
-  issue: 62515
+  contributor: 610
+  pullRequest: 1475
+  issue: 62527
 language:
-  Dart: 178032638
+  Dart: 178169256
   C++: 25333445
   C: 1965872
   Python: 1240713
   HTML: 743070
   Java: 510565
   JavaScript: 435218
-  WebAssembly: 260393
+  WebAssembly: 259189
   Shell: 104581
   GAP: 99638
   CSS: 76024
@@ -44,72 +44,72 @@ language:
   Go Template: 3388
   CMake: 1598
   Objective-C++: 854
-totalBytes: 208976517
+totalBytes: 209111931
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
-    openPR: 10
-    closedIssue: 93
+    openPR: 7
+    closedIssue: 97
     openIssue: 196
-    commit: 741
+    commit: 785
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
+    release: 0
+    mergedPR: 0
+    openPR: 11
+    closedIssue: 238
+    openIssue: 287
+    commit: 1397
+  last90d:
+    since: 2026-08-01
     release: 0
     mergedPR: 0
     openPR: 13
-    closedIssue: 233
-    openIssue: 286
-    commit: 1353
-  last90d:
-    since: 2026-07-31
+    closedIssue: 347
+    openIssue: 365
+    commit: 1905
+  last180d:
+    since: 2026-05-03
     release: 0
     mergedPR: 0
     openPR: 15
-    closedIssue: 342
-    openIssue: 364
-    commit: 1861
-  last180d:
-    since: 2026-05-02
-    release: 0
-    mergedPR: 0
-    openPR: 17
-    closedIssue: 697
+    closedIssue: 708
     openIssue: 567
-    commit: 3272
+    commit: 3316
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 0
-    openPR: 18
-    closedIssue: 1573
-    openIssue: 977
-    commit: 6022
+    openPR: 16
+    closedIssue: 1581
+    openIssue: 976
+    commit: 6066
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 1
-    openPR: 18
-    closedIssue: 2981
-    openIssue: 1819
-    commit: 12484
+    openPR: 16
+    closedIssue: 2990
+    openIssue: 1820
+    commit: 12508
 total:
   release: 0
   mergedPR: 184
-  openPR: 18
-  closedIssue: 54027
+  openPR: 16
+  closedIssue: 54039
   openIssue: 8488
-  commit: 116576
+  commit: 116622
 ---
 path: /home/runner/.x-repo/github.com/dart-lang/sdk
-collectedAt: 2026-10-29T06:30:38Z
+collectedAt: 2026-10-30T06:32:31Z
 loc:
   Dart:
-    code: 4867728
-    comments: 534692
-    blanks: 543747
-    files: 25878
+    code: 4871469
+    comments: 535017
+    blanks: 544119
+    files: 25890
   Cpp:
     code: 474273
     comments: 46601
@@ -126,7 +126,7 @@ loc:
     blanks: 23820
     files: 462
   Yaml:
-    code: 84078
+    code: 84103
     comments: 5672
     blanks: 8912
     files: 910
@@ -151,7 +151,7 @@ loc:
     blanks: 1887
     files: 105
   WebAssembly:
-    code: 6884
+    code: 6848
     comments: 111
     blanks: 0
     files: 71
@@ -247,8 +247,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 45617
-    blanks: 15172
+    comments: 45642
+    blanks: 15184
     files: 379
   Text:
     code: 0
@@ -256,32 +256,42 @@ loc:
     blanks: 275
     files: 78
 total:
-  code: 5849695
-  comments: 707770
-  blanks: 665318
-  files: 29112
+  code: 5853425
+  comments: 708120
+  blanks: 665702
+  files: 29124
 ---
-date: "2026-10-29T00:05:10Z"
+date: "2026-10-30T00:05:11Z"
 repo:
   name: github.com/dart-lang/sdk
-  commit: 7e9ed467ed5b6082e38f068bc6ace844fa192dc4
+  commit: 6bdb628419ea0faf0f7f5ff559a855d1602ce685
 scorecard:
   version: v5.5.0
   commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 8.6
 checks:
-  - name: CI-Tests
-    score: -1
-    reason: no pull request found
-    details: null
   - name: Code-Review
     score: 10
     reason: all changesets reviewed
     details: null
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
+  - name: CI-Tests
+    score: -1
+    reason: no pull request found
     details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Maintained
+    score: 10
+    reason: 30 commit(s) and 24 issue activity found in the last 90 days -- score normalized to 10
+    details: null
+  - name: Dependency-Update-Tool
+    score: 10
+    reason: update tool detected
+    details:
+      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: Token-Permissions
     score: 10
     reason: GitHub workflow tokens follow principle of least privilege
@@ -291,12 +301,22 @@ checks:
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/scorecards-analysis.yml:21'
       - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/third-party-deps-scan.yml:21'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/third-party-deps-scan.yml:22'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/third-party-deps-scan.yml:57'
       - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/third-party-deps-scan.yml:55'
       - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/third-party-deps-scan.yml:56'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/third-party-deps-scan.yml:57'
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/publish.yml:19'
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/scorecards-analysis.yml:11'
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/third-party-deps-scan.yml:12'
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: BSD 3-Clause "New" or "Revised" License: LICENSE:0'
   - name: Security-Policy
     score: 10
     reason: security policy file detected
@@ -305,35 +325,19 @@ checks:
       - 'Info: Found linked content: SECURITY.md:1'
       - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
       - 'Info: Found text in security policy: SECURITY.md:1'
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
-  - name: Maintained
-    score: 10
-    reason: 30 commit(s) and 28 issue activity found in the last 90 days -- score normalized to 10
-    details: null
-  - name: Dependency-Update-Tool
-    score: 10
-    reason: update tool detected
-    details:
-      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: CII-Best-Practices
     score: 2
     reason: 'badge detected: InProgress'
+    details: null
+  - name: Signed-Releases
+    score: -1
+    reason: no releases found
     details: null
   - name: SAST
     score: 0
     reason: no SAST tool detected
     details:
       - 'Warn: no pull requests merged into dev branch'
-  - name: License
-    score: 10
-    reason: license file detected
-    details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: BSD 3-Clause "New" or "Revised" License: LICENSE:0'
   - name: Fuzzing
     score: 10
     reason: project is fuzzed
@@ -345,16 +349,6 @@ checks:
     score: 10
     reason: no binaries found in the repo
     details: null
-  - name: Signed-Releases
-    score: -1
-    reason: no releases found
-    details: null
-  - name: Pinned-Dependencies
-    score: 10
-    reason: all dependencies are pinned
-    details:
-      - 'Info:   8 out of   8 GitHub-owned GitHubAction dependencies pinned'
-      - 'Info:   3 out of   3 third-party GitHubAction dependencies pinned'
   - name: Branch-Protection
     score: 3
     reason: branch protection is not maximal on development and all release branches
@@ -368,12 +362,18 @@ checks:
       - 'Warn: ''up-to-date branches'' is disabled on branch ''main'''
       - 'Warn: no status checks found to merge onto branch ''main'''
       - 'Warn: PRs are not required to make changes on branch ''main''; or we don''t have data to detect it.If you think it might be the latter, make sure to run Scorecard with a PAT or use Repo Rules (that are always public) instead of Branch Protection settings'
+  - name: Pinned-Dependencies
+    score: 10
+    reason: all dependencies are pinned
+    details:
+      - 'Info:   8 out of   8 GitHub-owned GitHubAction dependencies pinned'
+      - 'Info:   3 out of   3 third-party GitHubAction dependencies pinned'
+  - name: Vulnerabilities
+    score: 10
+    reason: 0 existing vulnerabilities detected
+    details: null
   - name: Contributors
     score: 10
     reason: project has 13 contributing companies or organizations
     details:
       - 'Info: found contributions from: CodedConsultants, Dart-Code, coded consultants ltd, dart-lang, draw-dev, flutter, google, google @dart-lang, google on @dart-lang, grpc, metaborg, monome-community, wren-lang'
-  - name: Vulnerabilities
-    score: 10
-    reason: 0 existing vulnerabilities detected
-    details: null
