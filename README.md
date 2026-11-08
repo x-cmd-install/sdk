@@ -30,8 +30,8 @@ Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **CI-Tests** (-1/10) — no pull request found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **CI-Tests** (-1/10) — no pull request found
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,339 · **Forks**: 2,024 · **Open issues**: 62,618 · **Contributors**: 613
+- **Stars**: 11,339 · **Forks**: 2,024 · **Open issues**: 62,622 · **Contributors**: 613
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 12 · **Closed issues**: 54096 · **Open issues**: 8522 · **Commits**: 116819
+- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 12 · **Closed issues**: 54096 · **Open issues**: 8526 · **Commits**: 116819
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 4 | 98 | 198 | 759 |
-| last60d | 2026-09-08 | 0 | 0 | 7 | 249 | 307 | 1473 |
-| 90d | 2026-08-09 | 0 | 0 | 9 | 365 | 381 | 1961 |
-| last180d | 2026-05-11 | 0 | 0 | 11 | 724 | 592 | 3408 |
-| 360d | 2025-11-12 | 0 | 0 | 12 | 1606 | 999 | 6136 |
-| last720d | 2024-11-17 | 0 | 1 | 12 | 3016 | 1847 | 12552 |
+| 30d | 2026-10-09 | 0 | 0 | 4 | 94 | 196 | 600 |
+| last60d | 2026-09-09 | 0 | 0 | 7 | 244 | 306 | 1317 |
+| 90d | 2026-08-10 | 0 | 0 | 9 | 360 | 384 | 1836 |
+| last180d | 2026-05-12 | 0 | 0 | 11 | 722 | 596 | 3305 |
+| 360d | 2025-11-13 | 0 | 0 | 12 | 1596 | 997 | 6020 |
+| last720d | 2024-11-18 | 0 | 1 | 12 | 3011 | 1849 | 12552 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for sdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:42:23Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:45:37Z._
