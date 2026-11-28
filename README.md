@@ -14,14 +14,14 @@ x install sdk
 
 ## Code insight
 
-Total: **5,930,542** lines of code across **28368** files in the top 5 languages.
+Total: **5,930,822** lines of code across **28369** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 4,958,350 | 540,534 | 550,864 | 26180 |
-| Cpp | 476,877 | 46,966 | 61,898 | 652 |
+| Dart | 4,958,491 | 540,562 | 550,881 | 26181 |
+| Cpp | 477,004 | 46,969 | 61,914 | 652 |
 | Json | 167,852 | 0 | 116 | 145 |
-| CHeader | 133,309 | 23,114 | 23,857 | 462 |
+| CHeader | 133,314 | 23,132 | 23,858 | 462 |
 | Yaml | 84,695 | 5,708 | 8,983 | 929 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,369 · **Forks**: 1,958 · **Open issues**: 62,817 · **Contributors**: 617
+- **Stars**: 11,368 · **Forks**: 1,959 · **Open issues**: 62,832 · **Contributors**: 617
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 4 · **Closed issues**: 54227 · **Open issues**: 8590 · **Commits**: 117125
+- **Releases**: 0 · **Merged PRs**: 184 · **Open PRs**: 4 · **Closed issues**: 54232 · **Open issues**: 8600 · **Commits**: 117131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 88 | 214 | 470 |
-| last60d | 2026-09-28 | 0 | 0 | 2 | 237 | 364 | 1322 |
-| 90d | 2026-08-29 | 0 | 0 | 2 | 384 | 440 | 1898 |
-| last180d | 2026-05-31 | 0 | 0 | 3 | 748 | 653 | 3349 |
-| 360d | 2025-12-02 | 0 | 0 | 4 | 1594 | 1017 | 6093 |
-| last720d | 2024-12-07 | 0 | 1 | 4 | 3038 | 1890 | 12496 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 85 | 221 | 476 |
+| last60d | 2026-09-29 | 0 | 0 | 2 | 237 | 371 | 1328 |
+| 90d | 2026-08-30 | 0 | 0 | 2 | 388 | 449 | 1904 |
+| last180d | 2026-06-01 | 0 | 0 | 3 | 750 | 658 | 3355 |
+| 360d | 2025-12-03 | 0 | 0 | 4 | 1592 | 1023 | 6099 |
+| last720d | 2024-12-08 | 0 | 1 | 4 | 3043 | 1900 | 12499 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for sdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:55:28Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:29:12Z._
